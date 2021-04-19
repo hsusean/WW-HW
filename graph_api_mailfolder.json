@@ -1,0 +1,86 @@
+{
+    "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#users('c800fa21-eaf8-4278-8561-af794fe2b805')/mailFolders",
+    "@odata.nextLink": "https://graph.microsoft.com/v1.0/users/c800fa21-eaf8-4278-8561-af794fe2b805/mailFolders?$skip=10",
+    "value": [
+        {
+            "id": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEbAAA=",
+            "displayName": "Archive",
+            "parentFolderId": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEIAAA=",
+            "childFolderCount": 0,
+            "unreadItemCount": 0,
+            "totalItemCount": 1
+        },
+        {
+            "id": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEhAAA=",
+            "displayName": "Conversation History",
+            "parentFolderId": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEIAAA=",
+            "childFolderCount": 1,
+            "unreadItemCount": 0,
+            "totalItemCount": 0
+        },
+        {
+            "id": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEKAAA=",
+            "displayName": "Deleted Items",
+            "parentFolderId": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEIAAA=",
+            "childFolderCount": 0,
+            "unreadItemCount": 1,
+            "totalItemCount": 4
+        },
+        {
+            "id": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEPAAA=",
+            "displayName": "Drafts",
+            "parentFolderId": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEIAAA=",
+            "childFolderCount": 0,
+            "unreadItemCount": 0,
+            "totalItemCount": 1
+        },
+        {
+            "id": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEMAAA=",
+            "displayName": "Inbox",
+            "parentFolderId": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEIAAA=",
+            "childFolderCount": 0,
+            "unreadItemCount": 12,
+            "totalItemCount": 75
+        },
+        {
+            "id": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEVAAA=",
+            "displayName": "Junk Email",
+            "parentFolderId": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEIAAA=",
+            "childFolderCount": 0,
+            "unreadItemCount": 0,
+            "totalItemCount": 0
+        },
+        {
+            "id": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAELAAA=",
+            "displayName": "Outbox",
+            "parentFolderId": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEIAAA=",
+            "childFolderCount": 0,
+            "unreadItemCount": 0,
+            "totalItemCount": 0
+        },
+        {
+            "id": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAACy6iuAAA=",
+            "displayName": "RSS 摘要",
+            "parentFolderId": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEIAAA=",
+            "childFolderCount": 0,
+            "unreadItemCount": 0,
+            "totalItemCount": 0
+        },
+        {
+            "id": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEJAAA=",
+            "displayName": "Sent Items",
+            "parentFolderId": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEIAAA=",
+            "childFolderCount": 0,
+            "unreadItemCount": 0,
+            "totalItemCount": 5
+        },
+        {
+            "id": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAACy3WyAAA=",
+            "displayName": "同步問題",
+            "parentFolderId": "AAMkAGRkOTc3MWM2LWZhOTMtNGJhNi05YjMzLWRkZDdkZmIyN2U3MgAuAAAAAADnIglLKrv7S4StLePIiuVVAQA3CMDvILz0QqRqNMgsxY5qAAAAAAEIAAA=",
+            "childFolderCount": 3,
+            "unreadItemCount": 0,
+            "totalItemCount": 0
+        }
+    ]
+}

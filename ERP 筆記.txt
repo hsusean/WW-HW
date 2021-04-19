@@ -1,0 +1,13 @@
+ABAP SAP自創的語言 公司有IT在寫
+擴充ERP用的
+
+SAP HANA => in-memory computing
+在資料庫裡面寫程式
+
+Master data 主檔 => 靜態資料(人事資料\料號)
+Transaction data => 交易紀錄
+
+SD => 銷售分布
+
+T-code => CRUDQ動作 (Read: 單一比\Query: 下條件跑出多筆)
+每個常用動作的簡稱
